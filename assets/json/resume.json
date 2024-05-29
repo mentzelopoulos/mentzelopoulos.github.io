@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Andreas P. Mentzelopoulos",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ament@mit.edu",
+    "phone": "",
+    "url": "https://mentzelopoulos.github.io",
+    "summary": "Graduate student at MIT working at the intersection of fluid mechanics and machine learning. Specializing in time-series forecasting and generative modelling.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "55 Massachusetts Ave",
+      "postalCode": "MA 02139",
+      "city": "Cambridge",
       "countryCode": "US",
-      "region": "California"
+      "region": "Massachusetts"
     },
     "profiles": [
       {
-        "network": "Twitter",
+        "network": "LinkedIn",
         "username": "AlbertEinstein",
         "url": "https://twitter.com/AlbertEinstein"
       }
@@ -24,91 +24,135 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "MathWorks",
+      "position": "Engineering Development Intern",
+      "url": "https://www.mathworks.com/company/jobs/students/edg.html",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "summary": "Design & Quality Engineering for Simscape Fluids and Multibody products",
+      "highlights": ["Test Suite deveoplment for Gas, Moist Air, and Isothermal Liquid libraries.","Design and deployment of hydraulic and control components for the customer-facing forklift example (2024a).", "Test suites for 10 customer-facing simscape models (Quadcopter, Forklift, ...)."]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "American Bureau of Shipping",
+      "position": "Engineering Intern",
+      "url": "https://ww2.eagle.org/en.html",
+      "startDate": "2020-06",
+      "endDate": "2020-08",
+      "summary": "Engineering review and classification of offshore structures and equipment",
+      "highlights": ["Full engineering review of pressure vessels per ASME Section VIII, Div 1.","Development of allowable chemical cargo lists for 12 chemical tankers per IBC Code", "Classification of BP Mad-Dog phase 2 offshore rig.", "Strategy development for maritime digitalization."]
+    },
+    {
+      "name": "Citic Securities CLSA",
+      "position": "Quantitative Strategies Intern",
+      "url": "https://www.clsa.com/about/",
+      "startDate": "2024-06",
+      "endDate": "2024-08",
+      "summary": "Incoming intern for quantitative trading strategies",
+      "highlights": [""]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Massachusetts Institute of Technology",
+      "location": "Cambridge, MA, USA",
+      "url": "",
+      "area": "Mechanical Engineering and Computation",
+      "studyType": "Doctor of Philosophy (PhD)",
+      "startDate": "2020",
+      "endDate": "-",
+      "score": "",
+      "courses": ["SM Mechanical Engineering (2022)", "SM Ocean Engineering (pursuing)", "SM Electrical Engineering & Computer Science (pursuing)"]
+    },
+    {
+      "institution": "University of Michigan",
+      "location": "Ann Arbor, MI, USA",
+      "url": "",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor's of Science in Engineering (BSE)",
+      "startDate": "2016",
+      "endDate": "2020",
+      "score": "",
+      "courses": ["BSE Mechanical Engineering (2020)", "BSE Naval Architecture and Marine Engineering (2020)", "Minor in Mathematics"]
     }
+    
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Onassis Foundation Scholarship",
+      "date": "12/2022",
+      "awarder": "Onassis Foundation",
+      "url": "https://www.onassis.org/",
+      "summary": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "MathWorks Fellowship",
+      "date": "09/2022",
+      "awarder": "MathWorks/MIT",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "title": "Society of Naval Architecture & Marine Engineering Award",
+      "date": "05/2021",
+      "awarder": "MIT",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "title": "William M. Kennedy Scholarship",
+      "date": "04/2021",
+      "awarder": "SNAME",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "title": "James B. Angell Scholar",
+      "date": "04/2020",
+      "awarder": "University of Michigan",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Undergraduate Scholarship",
+      "date": "07/2019",
+      "awarder": "SNAME",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "NA&ME Department Scholarship",
+      "date": "06/2019",
+      "awarder": "University of Michigan",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "NA&ME Fellowship",
+      "date": "01/2019",
+      "awarder": "University of Michigan",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "NA&ME Fellowship",
+      "date": "01/2019",
+      "awarder": "University of Michigan",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "ABS Scholarship",
+      "date": "05/2018",
+      "awarder": "University of Michigan",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "University Honors & Dean's List",
+      "date": "2020",
+      "awarder": "University of Michigan",
+      "url": "",
+      "summary": "All years as an undergraduate."
     }
   ],
   "publications": [
