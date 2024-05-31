@@ -191,7 +191,7 @@ Although auto-regressive transformers are trending currently, for the purpose of
 Since we are interested in making predictions of physical vibration data, a reasonable choice for our loss function is the Mean Square Error (MSE) between predicted and observed vibrations.
 
 
-### The Real (data) Deal
+## The Real (data) Deal
 
 In this section,  the experimental data obtained during experiments were used to train the VIVformer. Specifically, 20 times steps at 36 locations were used as input and the next time step at the same locations was forecasted. In order to train the transformer, a dataset and dataloader was created to enable iterating over the following quantities:
 
@@ -318,8 +318,5 @@ In this work, a data driven approach is employed to study physical system vibrat
 A variational autoencoder is trained on physical vortex-induced vibration data in order to generate sythetic data of the vibrations. The VAE is certainly able to generate data which resemble the physical data visually. Moreover, the generative process is confirmed to preserve the physicality of the data at least partially: a transformer trained on synthetic data only is capable of predicting real experimental data to reasonable accuracy. In that sense, the VAE can be viewed as a tool which learns the underlying physical traits of the data and can be used not only to augment physical datasets but also to simulate and understand the underlying physical mechanisms by examining synthetic data. With that being said, a recommended future research direction would be to examine whether the outputs of the VAE satisfy physical equations of interest and how those could perhaps be included as an additional loss term when training the VAE, i.e. having a physics-informed decoder network. 
 
 A transformer architecture for forecasting unsteady and nonstationary vortex-induced vibrations, the VIVformer, is developed. The VIVformer architecture combines multi-head attention modules and fully conncted network modules with residual connections in order to model and forecast the physical vibration time-series in both space and time. The optimized VIVformer architecture can forecast flexible body VIV in time-space to reasonable accuracy both instantaneously and on average. Testing the performance of the VIVformer while gradually decreasing the input information would yield a deeper understanding in the capabilities of the architecture; in addition, testing the extended time horizon predictions of the model would cretainly be a recommendation for future research. 
-
-## References
-{% bibliography %}
 
 
