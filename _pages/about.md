@@ -6,7 +6,7 @@ subtitle: PhD Canidate, MIT | ament@mit.edu
 
 profile:
   align: right
-  image: prof_pic_alt.jpg
+  image: prof_pic_alt.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Andreas Mentzelopoulos </p>
