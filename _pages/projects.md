@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Toy Problems stacked!
+description: Let's explore problems together!
 nav: true
 nav_order: 3
 display_categories: [work, fun]

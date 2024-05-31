@@ -2,7 +2,7 @@
 layout: page
 title: VIVformer
 description: Transformers and genAI for 2D time series, applications to vortex induced vibrations.
-img: assets/img/Transformer_architecture.png
+img: assets/img/VIVformer/Transformer_architecture.png
 importance: 1
 category: work
 related_publications: true
@@ -14,10 +14,10 @@ Vortex induced vibrations (VIV) are vibrations that affect bluff bodies in the p
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Intro.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/VIVformer/Intro.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Intro2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/VIVformer/Intro2.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -42,7 +42,7 @@ The figure below illustrates the experimental setup schematically. A solid alumi
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/full_schema_experiment.png" title="example image" class="img-fluid rounded z-depth-1" %}   
+    {% include figure.liquid loading="eager" path="assets/img/VIVformer/full_schema_experiment.png" title="example image" class="img-fluid rounded z-depth-1" %}   
     </div>
 </div>
 <div class="caption">
@@ -55,7 +55,7 @@ The flexible cylinder was towed at 0.7 m/s resulting in a uniform incoming flow 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/viv.gif" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/viv.gif" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -66,7 +66,7 @@ Reconstruction of the motion was done using a machine vision framework leveragin
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Image_Processing.PNG" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/Image_Processing.PNG" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -81,10 +81,10 @@ The displacement of the vibrating body was recorded at 36 uniformly spaced locat
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pixelated_viv.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/pixelated_viv.png" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/interpolated_viv.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/interpolated_viv.png" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -101,7 +101,7 @@ A VAE is a specific network architecture whose goal is to learn a probabilistic 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/VAE.PNG" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/VAE.PNG" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -128,7 +128,7 @@ where $$D_{KL}$$ referes to the Kullback-Leibler divergence. Intuitively, maximi
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/VAE_loss.PNG" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/VAE_loss.PNG" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -139,24 +139,24 @@ Having trained the VAE, samples from the standard normal distribution in $$R^5$$
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/generated_VAE_1.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/generated_VAE_1.png" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/generated_VAE_2.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/generated_VAE_2.png" class="img-fluid" %}
     </div>
         <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/generated_VAE_3.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/generated_VAE_3.png" class="img-fluid" %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/real_viv_1.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/real_viv_1.png" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/real_viv_2.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/real_viv_2.png" class="img-fluid" %}
     </div>
         <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/real_viv_3.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/real_viv_3.png" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -171,7 +171,7 @@ Tranformer network architectures have been widely used and are considered state 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Transformer_architecture.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/Transformer_architecture.png" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -204,7 +204,7 @@ The training data were split into 80% for training and 20% for testing/validatio
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/real_data_VIVformer_loss.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/real_data_VIVformer_loss.png" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -215,13 +215,13 @@ The training results show that the model is able to gradually decrease the MSE l
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Forecasting_real.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/Forecasting_real.png" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/targets_real.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/targets_real.png" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/difference_real.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/difference_real.png" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -232,7 +232,7 @@ As is evident from the visualized vibration predictions (above), the model can p
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/RMS_real.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/RMS_real.png" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -245,13 +245,13 @@ Although this is not recommended practice as we described earlier, we attempt to
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/auto_regression_forecasting_real.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/auto_regression_forecasting_real.png" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/auto_regression_targets_real.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/auto_regression_targets_real.png" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/auto_regression_difference_real.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/auto_regression_difference_real.png" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -270,7 +270,7 @@ Sixty arrays of 36 time steps at 36 locations (this can be though of as generati
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/synthetic_VIVformer_loss.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/synthetic_VIVformer_loss.png" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -283,13 +283,13 @@ The more important question is however, whether the VIVformer trained on the syn
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Forecasting_synthetic.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/Forecasting_synthetic.png" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/targets_synthetic.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/targets_synthetic.png" class="img-fluid" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/difference_synthetic.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/difference_synthetic.png" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -300,7 +300,7 @@ Albeit the VIVformer has not seen any real data during training, it is surprisin
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/RMS_synthetic.png" class="img-fluid" %}
+        {% include figure.liquid path="assets/img/VIVformer/RMS_synthetic.png" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
