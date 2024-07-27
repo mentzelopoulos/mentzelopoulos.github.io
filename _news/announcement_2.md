@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2024-04-14 15:59:00-0400
+date: 2024-07-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-The VIVformer Manuscript has been submitted for peer review to Ocean Engineering!
+Our paper ["Reconstructing flexible body vortex-induced vibrations using machine-vision and predicting the motions using semi-empirical models informed with transfer learned hydrodynamic coefficients"](https://www.sciencedirect.com/science/article/abs/pii/S0889974624000896) has been published by the Journal of Fluids and Structures!
+

@@ -6,7 +6,7 @@
     "email": "ament@mit.edu",
     "phone": "",
     "url": "https://mentzelopoulos.github.io",
-    "summary": "Graduate student at MIT working at the intersection of fluid mechanics and machine learning. Specializing in time-series forecasting and generative modelling.",
+    "summary": "PhD Candidate, MIT -- deep learning, time-series forecasting, generative-AI",
     "location": {
       "address": "55 Massachusetts Ave",
       "postalCode": "MA 02139",
@@ -39,15 +39,16 @@
       "startDate": "2020-06",
       "endDate": "2020-08",
       "summary": "Engineering review and classification of offshore structures and equipment",
-      "highlights": ["Full engineering review of pressure vessels per ASME Section VIII, Div 1.","Development of allowable chemical cargo lists for 12 chemical tankers per IBC Code", "Classification of BP Mad-Dog phase 2 offshore rig.", "Strategy development for maritime digitalization."]
+      "highlights": ["Full engineering review of pressure vessels per ASME Section VIII, Div 1.","Development of allowable chemical cargo lists for 12 chemical tankers per IBC Code.", "Classification of BP Mad-Dog phase 2 offshore rig.", "Strategy development for maritime digitalization."]
     },
     {
       "name": "Citic Securities CLSA",
-      "position": "Quantitative Strategies Intern",
-      "url": "https://www.clsa.com/about/",
+      "position": "Intern for Quantitative Tranding Strategies",
+      "url": "https://www.clsa.com/",
       "startDate": "2024-06",
       "endDate": "2024-08",
-      "summary": "Incoming intern for quantitative trading strategies"
+      "summary": "Development of Quantitative Trading Strategies",
+      "highlights": ["Market-neutral statistical arbitrage strategies using Deep Learning.", "Back-testing in US, Hong-Kong, and China Markets.", "Software development and optimization."]
     }
   ],
   "education": [
