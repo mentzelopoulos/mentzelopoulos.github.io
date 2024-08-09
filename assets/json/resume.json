@@ -48,7 +48,7 @@
       "startDate": "2024-06",
       "endDate": "2024-08",
       "summary": "Development of Quantitative Trading Strategies",
-      "highlights": ["Market-neutral statistical arbitrage strategies using Deep Learning.", "Back-testing in US, Hong-Kong, and China Markets.", "Software development and optimization."]
+      "highlights": ["Market-neutral statistical arbitrage strategies using deep-learning.", "Back-testing in alternative markets.", "Software development and optimization."]
     }
   ],
   "education": [
@@ -61,7 +61,7 @@
       "startDate": "2020",
       "endDate": "-",
       "score": "",
-      "courses": ["SM Mechanical Engineering (2022)", "SM Ocean Engineering (pursuing)", "SM Electrical Engineering & Computer Science (pursuing)"]
+      "courses": ["SM Mechanical Engineering (2022)", "SM Electrical Engineering & Computer Science (pursuing)"]
     },
     {
       "institution": "University of Michigan",
