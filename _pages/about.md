@@ -6,7 +6,7 @@ subtitle: Incoming Machine Learning Scientist, Wayfair | Affiliate, MIT | ament@
 
 profile:
   align: right
-  image: prof_pic_alt.JPG
+  image: prof_pic_3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p> Andreas Mentzelopoulos, PhD </p>
