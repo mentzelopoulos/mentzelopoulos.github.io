@@ -1,7 +1,9 @@
 source 'https://rubygems.org'
+gem 'jekyll','~>4.3'
+gem 'webrick'
 group :jekyll_plugins do
     gem 'classifier-reborn'
-    gem 'jekyll'
+    #gem 'jekyll'
     gem 'jekyll-archives'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
@@ -19,7 +21,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'mini_racer'
     gem 'unicode_utils'
-    gem 'webrick'
+    #gem 'webrick'
 end
 group :other_plugins do
     gem 'css_parser'
