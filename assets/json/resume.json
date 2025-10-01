@@ -6,7 +6,7 @@
     "email": "ament@mit.edu",
     "phone": "",
     "url": "https://mentzelopoulos.github.io",
-    "summary": "PhD Candidate, MIT -- deep learning, time-series forecasting, generative-AI",
+    "summary": "Machine Learning Scientist at Wayfair, MIT PhD, interested in deep learning, time-series forecasting, generative-AI",
     "location": {
       "address": "55 Massachusetts Ave",
       "postalCode": "MA 02139",
@@ -24,9 +24,18 @@
   },
   "work": [
     {
+      "name": "Wayfair",
+      "position": "Machine Learning Scientist",
+      "url": "https://www.wayfair.com/",
+      "startDate": "2025-10",
+      "endDate": "",
+      "summary": "Marketing & Measurement Science",
+      "highlights": []
+    },
+    {
       "name": "MathWorks",
       "position": "Engineering Development Intern",
-      "url": "https://www.mathworks.com/company/jobs/students/edg.html",
+      "url": "https://www.mathworks.com/",
       "startDate": "2023-06",
       "endDate": "2023-08",
       "summary": "Design & Quality Engineering for Simscape Fluids and Multibody products",
@@ -56,18 +65,18 @@
       "institution": "Massachusetts Institute of Technology",
       "location": "Cambridge, MA, USA",
       "url": "",
-      "area": "Mechanical Engineering and Computation",
+      "area": "",
       "studyType": "Doctor of Philosophy (PhD)",
       "startDate": "2020",
-      "endDate": "-",
+      "endDate": "2025",
       "score": "",
-      "courses": ["SM Mechanical Engineering (2022)", "SM Electrical Engineering & Computer Science (pursuing)"]
+      "courses": ["PhD Mechanical Engineering and Computation (2025)", "SM Mechanical Engineering (2022)", "Minor in Finance"]
     },
     {
       "institution": "University of Michigan",
       "location": "Ann Arbor, MI, USA",
       "url": "",
-      "area": "Mechanical Engineering",
+      "area": "",
       "studyType": "Bachelor's of Science in Engineering (BSE)",
       "startDate": "2016",
       "endDate": "2020",
@@ -77,6 +86,13 @@
     
   ],
   "awards": [
+    {
+      "title": "American Bureau of Shipping Scholarship",
+      "date": "01/2024",
+      "awarder": "American Bureau of Shipping",
+      "url": "",
+      "summary": ""
+    },
     {
       "title": "Onassis Foundation Scholarship",
       "date": "12/2022",
@@ -150,14 +166,14 @@
   ],
   "skills": [
     {
-      "name": "Machine Learning & Deep Learning",
+      "name": "Deep Learning",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Time Series Analysis, Reconstruction, Forecasting",
-        "Forecasting with Transformers",
-        "Generative Models (GANs, VAEs, Diffusion)",
-        "Supervised & Unsupervised Learning",
+        "Time Series Forecasting",
+        "Transformers, LSTM",
+        "Generative Modeling (VAE, Diffusion)",
+        "Diffusion Models",
         "Pytorch"
       ]
     },
@@ -189,10 +205,9 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Financial Modelling",
-        "Risk Management",
-        "Bonds/Stocks/Options/Derivatives pricing",
-        "CAPM"
+        "Statistical Arbitrage",
+        "Derivatives Pricing",
+        "Valuations"
       ]
     }
   ],

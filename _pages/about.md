@@ -2,14 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Canidate, MIT | ament@mit.edu
+subtitle: Incoming Machine Learning Scientist, Wayfair | Affiliate, MIT | ament@mit.edu
 
 profile:
   align: right
-  image: prof_pic_alt.JPG
+  image: prof_pic_3.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Andreas Mentzelopoulos </p>
+    <p> Andreas Mentzelopoulos, PhD </p>
     <p> Rm 4-321 <p>
     <p> MIT, 55 Massachusetts Ave </p>
     <p> Cambridge, MA, 02139, USA </p>
@@ -19,20 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Andreas and I am a PhD Candidate at [MIT](https://web.mit.edu/) advised by Professor [Michael S. Triantafyllou](https://meche.mit.edu/people/faculty/MISTETRI@MIT.EDU) and Professor [Themis Sapsis](https://sandlab.mit.edu/?page_id=6).  My primary research interests lie in **deep learning**, **time series forecasting**, and **generative modeling** with applications to engineering and finance.
+I just defended my PhD at [MIT](https://web.mit.edu/) in Mechanical Engineering and Computational Science & Engineering, with a minor in Finance. My research focuses on **deep learning**, particularly **generative modeling** and **time-series forecasting**, applied to engineering and finance.  
 
-I am leveraging **deep learning** techniques to develop a [digital twin](https://onepetro.org/OTCONF/proceedings-abstract/24OTC/4-24OTC/545009) for risers -- long, flexible underwater pipelines -- vibrating constantly under the excitation of stochastic hydrodynamic loads. Driven by [vortex-induced vibrations (VIV)](https://en.wikipedia.org/wiki/Vortex-induced_vibration), the dynamics are **nonlinear, nonstationary,** and exhibit strong **memory** effects. In order to address those challenges, I am using [transformers](https://arxiv.org/abs/1706.03762) to model and **continuously forecast** the vibrations in real time.
+I am the founder and lead researcher of **[LOBSTgER](https://news.mit.edu/2025/lobstger-merging-ai-underwater-photography-to-reveal-hidden-ocean-worlds-0625)**, a project that develops **latent diffusion models** to generate and enhance high-resolution underwater imagery. In collaboration with photographer [Keith Ellenbogen](https://www.keithellenbogen.com/), LOBSTgER combines AI and ocean photography to raise awareness of marine environments while advancing generative modeling research.  
 
-I am also leveraging **generative models** to synthesize instances of multivariate VIV (time-series) since experiments can be not only logistically challenging but also financially prohibitive. My approach includes using [Generative Adversarial Networks (GANs)](https://en.wikipedia.org/wiki/Generative_adversarial_network), especially [Wasserstein GANs (wGANs)](https://arxiv.org/abs/1701.07875), [Variational Autoencoders (VAEs)](https://arxiv.org/abs/1312.6114), and [Denoising-Diffusion probabilistic models (DDPMs)](https://arxiv.org/abs/2006.11239). My results indicate that generated data retain much of the intrinsic properties of the original data, and that forecasting models trained on synthetic data can accurately predict real spatio-temporal VIV.
+During my PhD, I developed the **Firstling Digital Twin**, pioneering the use of transformers (**[VIVformer](https://www.sciencedirect.com/science/article/abs/pii/S0889974625000726)**) and diffusion models (**Virtual Towing Tank**, publication forthcoming) to forecast and simulate vortex-induced vibrations of flexible structures. Beyond engineering, I have designed and implemented deep learning–based **statistical arbitrage** strategies for public equities, back-tested in Southeast Asian markets during my internship with [CITIC Securities, CLSA](https://www.clsa.com/).  
 
-My work in **generative modeling** also includes **LOBSTgER** (Learning Oceanic Bioecological Systems Through gEnerative Representations): an effort dedicated to generating ultra-realistic high-resolution underwater imagery to raise awareness of the marine habitats in Massachusetts and the Gulf of Maine. This effort is run in collaboration with renowned photographer [Keith Ellenbogen](https://www.keithellenbogen.com/). Using Keith's exemplary images as training data I have been able to train a [latent diffusion model](https://arxiv.org/abs/2112.10752) to generate detailed images of species such as Lion's Mane Jellyfish, Mola Mola, and others. We are currently advancing this work and plan to publicize it through exhibitions and articles in the near future.
+Originally from [Athens, Greece](https://en.wikipedia.org/wiki/Athens), I studied at the [University of Michigan](https://umich.edu/) before joining MIT. Outside of research, I am a violinist (past 5 years with the [MIT Symphony Orchestra](https://mta.mit.edu/music/performance/mit-symphony-orchestra)) and enjoy concerts, musical theater, and time with friends and family.  
 
-As far as leveraging **deep learning** for **financial applications**, I have developed market neutral **statistical arbitrage** trading stategies for public equities using deep neural network architectures which have been back-tested in alternative investment markets of Southeast Asia (work done as part of Wall Street internship).
-
-
-I was born and raised in [Athens, Greece](https://en.wikipedia.org/wiki/Athens) where I developed a passion for engineering, the marine environments, and music. My academic journey began at the [University of Michigan](https://umich.edu/) where I graduated summa cum laude with two bachelor's degrees, one in [Mechanical Engineering](https://me.engin.umich.edu/) and the second in [Naval Architecture & Marine Engineering](https://name.engin.umich.edu/) with a minor in Mathematics (2020). My undergraduate research was on marine renewable energy harvesting at the [MRELab](https://websites.umich.edu/~mrel/) under the mentorship of Professor [M.M. Bernitsas](https://name.engin.umich.edu/people/bernitsas-michael/). I joined [MIT's MechE Department](https://meche.mit.edu/) as a graduate student where I have completed an SM (2022). Over the years I have developed a strong background in mathematical modeling, numerical methods, statistics, algorithms, machine learning, optimization, and programming through coursework, research, and internships.
-
-Academics aside, I am a violinist for the [MIT Symphony Orchestra](https://mta.mit.edu/music/performance/mit-symphony-orchestra) and enjoy hanging out with friends, attending concerts, and immersing myself into musical theater shows.
 
 
 <!--
