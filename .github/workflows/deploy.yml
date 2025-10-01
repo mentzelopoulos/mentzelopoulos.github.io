@@ -68,7 +68,8 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.2.2"
+          #ruby-version: "3.2.2"
+          ruby-version: "3.0.2p107" # (2021-07-07 revision 0db68f0233) [x86_64-linux-gnu]
           bundler-cache: true
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
