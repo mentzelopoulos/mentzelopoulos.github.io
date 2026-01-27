@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - mentzelopoulos
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - mentzelopoulos/Latent_UnderWater_Diffusion
+  - mentzelopoulos/Fine_tuning_Stable_Diffusion
