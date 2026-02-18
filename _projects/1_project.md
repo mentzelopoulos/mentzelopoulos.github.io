@@ -2,7 +2,7 @@
 layout: page
 title: VIVformer
 description: Transformers and genAI for 2D time series, applications to vortex induced vibrations.
-img: assets/img/VIVformer/Transformer_architecture.png
+img: assets/img/VIVformer/Image_Processing.PNG
 importance: 1
 category: work
 related_publications: true
