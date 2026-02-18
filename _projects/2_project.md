@@ -2,7 +2,7 @@
 layout: page
 title: LOBSTgER
 description: Learning Oceanic Bioecelogical Systems Through gEnerative Representations
-img: assets/img/LOBSTgER/myJelly35.png
+img: assets/img/LOBSTgER/generated_images_grid.png
 importance: 1
 category: fun
 related_publications: false
