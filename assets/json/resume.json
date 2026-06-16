@@ -6,7 +6,7 @@
     "email": "ament@mit.edu",
     "phone": "",
     "url": "https://mentzelopoulos.github.io",
-    "summary": "Machine Learning Scientist at Wayfair, MIT PhD, interested in deep learning, time-series forecasting, generative-AI",
+    "summary": "Quantitative Researcher, MIT PhD, interested in deep learning, time-series forecasting, generative-AI",
     "location": {
       "address": "55 Massachusetts Ave",
       "postalCode": "MA 02139",
@@ -24,13 +24,22 @@
   },
   "work": [
     {
+      "name": "Cubist Systematic Strategies",
+      "position": "Quantitative Researcher",
+      "url": "https://point72.com/cubist/",
+      "startDate": "2026-06",
+      "endDate": "",
+      "summary": "Equity Statistical Arbitrage ",
+      "highlights": ["Equity statistical arbitrage trading strategies."]
+    },
+    {
       "name": "Wayfair",
       "position": "Machine Learning Scientist",
       "url": "https://www.wayfair.com/",
       "startDate": "2025-10",
-      "endDate": "",
+      "endDate": "2026-06",
       "summary": "Marketing & Measurement Science",
-      "highlights": []
+      "highlights": ["Multi-touch attribution models via explainable deep learning.", "Shapley-based attribution.", "Marketing lift studies."]
     },
     {
       "name": "MathWorks",

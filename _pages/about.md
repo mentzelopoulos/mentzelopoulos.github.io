@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Machine Learning Scientist, Wayfair | Research Affiliate, MIT | ament@mit.edu
+subtitle: Quantitative Research · Deep Learning · MIT PhD | <e>"The Curious Case"</e>
 
 profile:
   align: right
@@ -19,18 +19,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-**Hi, I’m Andreas — a Machine Learning Scientist at Wayfair!**
+I am a quantitative researcher working on equity statistical arbitrage trading and research at [Cubist Systematic Strategies](https://point72.com/cubist/) (Point72).
 
-As part of the Measurement & Attribution team, I develop multi-touch [attribution models](https://en.wikipedia.org/wiki/Attribution_(marketing)) that quantify the impact of marketing campaigns via explainable deep learning ([Shapley](https://en.wikipedia.org/wiki/Shapley_value)-based frameworks). My work helps guide the allocation of **over $1B in annual marketing spend** by providing transparent, data-driven insight into what truly drives customer engagement.
+Before Wall Street, I worked at [Wayfair](https://wayfair.com) on the Measurement & Attribution team, where I developed multi-touch attribution models via explainable deep learning to quantify the impact of marketing spend. My work supported data-driven allocation of over $1B in annual marketing spend.
 
-I am the founder and lead researcher of **[LOBSTgER](https://news.mit.edu/2025/lobstger-merging-ai-underwater-photography-to-reveal-hidden-ocean-worlds-0625)**, a project that develops **latent diffusion models** to generate and enhance high-resolution underwater imagery. In collaboration with photographer [Keith Ellenbogen](https://www.keithellenbogen.com/), LOBSTgER combines AI and ocean photography to raise awareness of marine environments while advancing generative modeling research.  
+I am the co-founder and lead researcher of **[LOBSTgER](https://news.mit.edu/2025/lobstger-merging-ai-underwater-photography-to-reveal-hidden-ocean-worlds-0625)**, a project that develops **latent diffusion models** to generate and enhance high-resolution underwater imagery. In collaboration with photographer [Keith Ellenbogen](https://www.keithellenbogen.com/), LOBSTgER combines AI and ocean photography to raise awareness of marine environments while advancing generative modeling research.  
 
-I recently graduated with my PhD from [MIT](https://web.mit.edu/), where my research centered on deep learning, particularly **generative modeling**, and **time-series forecasting**. Specifically, I developed the **Firstling Digital Twin**, pioneering the use of transformers (**[VIVformer](https://www.sciencedirect.com/science/article/abs/pii/S0889974625000726)**) and diffusion models (**Virtual Towing Tank**, publication under development) to forecast and simulate vortex-induced vibrations of flexible structures. 
+I hold a PhD from [MIT](https://web.mit.edu/), where my research focused on applied deep learning. I developed the **Firstling Digital Twin**, pioneering the use of transformers (**[VIVformer](https://www.sciencedirect.com/science/article/abs/pii/S0889974625000726)**) and diffusion models (**Virtual Towing Tank**, publication under development) to forecast and simulate vortex-induced vibrations of flexible structures. 
 
-Beyond engineering, I have designed and implemented deep learning–based **statistical arbitrage** strategies for public equities, back-tested in Southeast Asian markets during my Wall Street internship with [CITIC Securities, CLSA](https://www.clsa.com/).  
-
-Originally from [Athens, Greece](https://en.wikipedia.org/wiki/Athens), I studied at the [University of Michigan](https://umich.edu/) before joining MIT. Outside of research, I am a violinist (past 5 years with the [MIT Symphony Orchestra](https://mta.mit.edu/music/performance/mit-symphony-orchestra)) and enjoy concerts, musical theater, and time with friends and family.  
-
+Outside of work, I’m a violinist and spent several years performing with the MIT Symphony Orchestra. I also enjoy hiking, scuba diving, cooking, and Broadway theatre.
 
 
 <!--
